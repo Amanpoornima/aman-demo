@@ -1,2 +1,2 @@
 # aman-demo
-This is a demo or introduction of gut and github.
+This is a demo or introduction of git and github, hihi:)
